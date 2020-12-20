@@ -1,0 +1,13 @@
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\bin\Debug\netstandard2.0\ChurrasApp.deps.json
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\bin\Debug\netstandard2.0\ChurrasApp.dll
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\bin\Debug\netstandard2.0\ref\ChurrasApp.dll
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\bin\Debug\netstandard2.0\ChurrasApp.pdb
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\obj\Debug\netstandard2.0\ChurrasApp.csprojAssemblyReference.cache
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\obj\Debug\netstandard2.0\ChurrasApp.AssemblyInfoInputs.cache
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\obj\Debug\netstandard2.0\ChurrasApp.AssemblyInfo.cs
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\obj\Debug\netstandard2.0\XamlC.stamp
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\obj\Debug\netstandard2.0\ChurrasApp.dll
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\obj\Debug\netstandard2.0\ref\ChurrasApp.dll
+F:\ChurrasApp\ChurrasApp\ChurrasApp\ChurrasApp\obj\Debug\netstandard2.0\ChurrasApp.pdb
